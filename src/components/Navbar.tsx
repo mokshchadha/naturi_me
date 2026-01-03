@@ -21,7 +21,7 @@ export default function Navbar() {
     { href: "/experiences", label: "Experiences" },
     { href: "/guardians", label: "Guardians" },
     { href: "/products", label: "Products" },
-    { href: "/our-impact", label: "Our Impact" },
+    { href: "/ourImpact", label: "Our Impact" },
     { href: "/profile", label: "Profile" },
   ];
 
